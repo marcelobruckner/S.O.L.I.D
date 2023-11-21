@@ -1,1 +1,0 @@
-Teste de readme em outro idioma
