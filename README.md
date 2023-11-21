@@ -2,7 +2,7 @@
 
 S.O.L.I.D é um acrônimo criado por Michael Faethers, após observar cinco princípios da orientação a objetos e design de código criados por Robert C. Martin.
 
-Esses principios ajudam o programador a escrever códigos mais limpos, separando responsabilidades, dimnuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamentos de código.
+Esses principios ajudam o programador a escrever códigos mais limpos, separando responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamentos de código.
 
   - Princípio de Responsabilidade Única
   - Princípio Aberto/Fechado
