@@ -4,7 +4,7 @@ _**S.O.L.I.D**_ é um acrônimo criado por Michael Faethers, após observar cinc
 
 >Esses principios ajudam o programador a escrever códigos mais limpos, separando responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamentos de código.
 
-  * (S)ingle Responsibility Principle (Princípio de Responsabilidade Única)
+  * [(S)ingle Responsibility Principle (Princípio de Responsabilidade Única)](https://github.com/marcelobruckner/S.O.L.I.D/tree/main/single_responsibility_principle).
   * (O)pen/Closed Principle - Princípio Aberto/Fechado
   * (L)iskov Substitution Principle (Princípio de Substituição de Liskov)
   * (I)nterface Segregation Principle (Princípio de segregação de interface)
