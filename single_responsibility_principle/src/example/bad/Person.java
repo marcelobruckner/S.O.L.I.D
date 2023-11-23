@@ -1,32 +1,28 @@
 package example.bad;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import example.bad.Person;
-
 public class Person {
 	
 	public void generateReport() {
+		/* Lógica para gerar relatorio */
 	}
 
 	public void sendEmail() {
-
+		/* Lógica para enviar Emails */
 	}
 
-	public Person savePerson(Person person) {
-		return new Person();
+	public void savePerson(Person person) {
+		/* Lógica para salvar Pessoas */
 	}
 
-	public Person editPerson(Person person) {
-		return new Person();
+	public void editPerson(Person person) {
+		/* Lógica para editar Pessoas */
 	}
 
 	public void deletePerson(Long idPerson) {
-
+		/* Lógica para deletar Pessoas */
 	}
 
-	public List<Person> list() {
-		return new ArrayList<Person>();
+	public void list() {
+		/* Lógica para listar Pessoas */
 	}
 }
