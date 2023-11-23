@@ -1,6 +1,5 @@
 package example.good;
 
-import example.bad.Person;
 
 public class PersonRepository {
 
